@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Receitas de Bolos</title>
+    <meta charset="UTF-8">
+    <style>
+        body {
+            background-color: #ffecd9;
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        h1, h2 {
+            background-color: #ff8a5c;
+            color: #fff;
+            padding: 10px;
+            margin: 0;
+            font-family: 'Trebuchet MS', sans-serif;
+        }
+        img {
+            max-width: 30%;
+            height: auto;
+        }
+        ul, ol {
+            padding-left: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Receitas de Bolos do Samuel</h1>
+
+<h2>Bolo de Trigo</h2>
+<img src="https://receitatodahora.com.br/wp-content/uploads/2021/09/bolo-simples-de-trigo-1.jpg" alt="Bolo de Trigo">
+<p>Ingredientes:</p>
+<ul>
+    <li>2 xicaras de farinha de trigo</li>
+    <li>1 xicara de acucar</li>
+    <li>1 colher de cha de fermento em po</li>
+    <!-- Adicione mais ingredientes aqui -->
+</ul>
+<p>Modo de Preparo:</p>
+<ol>
+    <li>Misture os ingredientes secos em uma tigela.</li>
+    <li>Adicione os ingredientes liquidos e misture bem.</li>
+    <li>Asse em forno pre-aquecido a 180C por 30 minutos.</li>
+    <!-- Adicione mais passos aqui -->
+</ol>
+
+<h2>Bolo de Cenoura</h2>
+<img src="https://marolacomcarambola.com.br/wp-content/uploads/2016/05/receita-de-bolo-de-cenoura-6.jpg" alt="Bolo de Cenoura">
+<p>Ingredientes:</p>
+<ul>
+    <li>3 cenouras medias</li>
+    <li>3 ovos</li>
+    <li>1 xicara de oleo</li>
+    <!-- Adicione mais ingredientes aqui -->
+</ul>
+<p>Modo de Preparo:</p>
+<ol>
+    <li>Bata no liquidificador as cenouras, os ovos e o oleo.</li>
+    <li>Em um recipiente, misture essa mistura liquida com os ingredientes secos.</li>
+    <li>Asse em forno pre-aquecido a 180C por aproximadamente 40 minutos.</li>
+    <!-- Adicione mais passos aqui -->
+</ol>
+
+<h2>Bolo de Chocolate</h2>
+<img src="https://www.mariareceita.com.br/wp-content/uploads/2022/06/bolo-de-chocolate-fofinho-molhadinho-calda-chocolate.jpg" alt="Bolo de Chocolate">
+<p>Ingredientes:</p>
+<ul>
+    <li>2 xicaras de farinha de trigo</li>
+    <li>1 xicara de acucar</li>
+    <li>1/2 xicara de cacau em po</li>
+    <!-- Adicione mais ingredientes aqui -->
+</ul>
+<p>Modo de Preparo:</p>
+<ol>
+    <li>Misture os ingredientes secos em uma tigela.</li>
+    <li>Adicione os ingredientes liquidos e misture bem.</li>
+    <li>Asse em forno pre-aquecido a 180C por 35-40 minutos.</li>
+    <!-- Adicione mais passos aqui -->
+</ol>
+
+</body>
+</html>
